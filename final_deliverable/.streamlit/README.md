@@ -1,1 +1,1 @@
-contains the streamlit TOML file(s)
+contains the streamlit TOML file(s) required to run streamlit package
